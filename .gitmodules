@@ -1,0 +1,6 @@
+[submodule "omblepy"]
+	path = omblepy
+	url = https://github.com/userx14/omblepy
+[submodule "open-BPM"]
+	path = open-BPM
+	url = https://github.com/evnleong/open-BPM
